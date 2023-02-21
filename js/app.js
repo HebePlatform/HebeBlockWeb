@@ -107,7 +107,7 @@ $("#client-logo").owlCarousel({
     pagination : false,
     responsiveClass:true,
     items:3,
- responsive:{
+        responsive:{
      0:{
          items:2,
      },
